@@ -1,1 +1,1 @@
-[sc.jpeg]
+![sc.jpeg](sc.jpeg)
